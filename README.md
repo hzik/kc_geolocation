@@ -4,7 +4,7 @@ This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integr
 
 This element is based on <https://leafletjs.com/> service that uses <https://www.openstreetmap.org/> together with the <https://www.mapbox.com/> service.
 
-![screenshot](ToggleSwitch.png)
+![screenshot](GeolocationLeaflet.png)
 
 ## Setup
 
